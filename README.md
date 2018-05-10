@@ -15,4 +15,5 @@
 - [JMM Java 内存模型 以及 volidate 关键字](https://zhuanlan.zhihu.com/p/29881777)
 - Java 多线程 & 线程同步 & 线程间通信
 - GC 堆 & 垃圾回收策略
+- classloader 双亲委托
 
